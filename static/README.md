@@ -1,4 +1,4 @@
-Saltci's Blog~
+# Saltci's Blog~
 
 Hello there! Welcome to my blog site, I'm saltci.
 
